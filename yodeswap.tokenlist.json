@@ -148,6 +148,14 @@
             "symbol": "SuperDoge",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x2E507a7bd1f0e5EaE840F92607AD386B142B04B2/logo.png"
+         },
+        {
+            "chainId": 2000,
+            "address": "0xe686C90AA4D81C5618FC60e8EFc3A657Cb48ed8C",
+            "name": "https://t.me/ChameleonDoge",
+            "symbol": "cdoge",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0xe686C90AA4D81C5618FC60e8EFc3A657Cb48ed8C/logo.png"
         }
     ]
 }
